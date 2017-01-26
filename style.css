@@ -109,6 +109,7 @@ time {
 /* EFFECTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+/*
 .timeline ul li::after {
   transition: background .5s ease-in-out;
 }
